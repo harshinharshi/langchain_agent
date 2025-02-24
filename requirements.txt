@@ -5,3 +5,4 @@ tavily-python
 langgraph-checkpoint-sqlite
 ipykernel
 python-dotenv
+duckduckgo-search
